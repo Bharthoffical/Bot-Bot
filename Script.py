@@ -12,9 +12,9 @@ class script(object):
 ║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="https://t.me/Commanidiot"> 𝙲𝚘𝚖𝚖𝚊𝚗𝚒𝚍𝚒𝚘𝚝 </a>
 ║┣⪼ 𝐌𝐨𝐯𝐢𝐞𝐬  - <a href="https://t.me/T5links"> 𝙈𝙤𝙫𝙞𝙚 </a>
 ║┣⪼ 𝙎𝙚𝙧𝙞𝙚𝙨  - <a href="https://t.me/T8links"> 𝙎𝙚𝙧𝙞𝙚𝙨 </a>
-║┣⪼ 
-║┣⪼ 
-║┣⪼ 
+║┣⪼ 𝘾𝙖𝙧𝙩𝙤𝙤𝙣 - <a href="https://t.me/T6links"> 𝘾𝙖𝙧𝙩𝙤𝙤𝙣 </a>
+║┣⪼ 𝙎𝙚𝙧𝙞𝙖𝙡   - <a href="https://t.me/T1links"> 𝙎𝙚𝙧𝙞𝙖𝙡 </a>
+║┣⪼ 𝘾𝙒𝘾   - <a href="https://t.me/T3links"> 𝘾𝙒𝘾 </a>
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
 𝙵𝚄𝙲* 𝙾𝙵𝙵 """
