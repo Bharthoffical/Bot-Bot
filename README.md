@@ -49,7 +49,7 @@ Very Sempile Bot Auto Filter bot
 
 
 ###ANNA BEN REPO
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Commanidiot/Bot-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bharthoffical/Bot-Bot)
 ### Hard Way
 
 ```bash
